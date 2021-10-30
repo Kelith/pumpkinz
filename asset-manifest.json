@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pumpkinz/static/css/main.19755ef8.chunk.css",
+    "main.js": "/pumpkinz/static/js/main.ac68ee83.chunk.js",
+    "main.js.map": "/pumpkinz/static/js/main.ac68ee83.chunk.js.map",
+    "runtime-main.js": "/pumpkinz/static/js/runtime-main.268cde77.js",
+    "runtime-main.js.map": "/pumpkinz/static/js/runtime-main.268cde77.js.map",
+    "static/js/2.09c649d7.chunk.js": "/pumpkinz/static/js/2.09c649d7.chunk.js",
+    "static/js/2.09c649d7.chunk.js.map": "/pumpkinz/static/js/2.09c649d7.chunk.js.map",
+    "static/js/3.70c92a9e.chunk.js": "/pumpkinz/static/js/3.70c92a9e.chunk.js",
+    "static/js/3.70c92a9e.chunk.js.map": "/pumpkinz/static/js/3.70c92a9e.chunk.js.map",
+    "index.html": "/pumpkinz/index.html",
+    "static/css/main.19755ef8.chunk.css.map": "/pumpkinz/static/css/main.19755ef8.chunk.css.map",
+    "static/js/2.09c649d7.chunk.js.LICENSE.txt": "/pumpkinz/static/js/2.09c649d7.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/pumpkinz/static/media/shlop-regular.d4944d69.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.268cde77.js",
+    "static/js/2.09c649d7.chunk.js",
+    "static/css/main.19755ef8.chunk.css",
+    "static/js/main.ac68ee83.chunk.js"
+  ]
+}
