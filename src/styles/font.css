@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'shlop-regular';
+    src: local("shlop-regular"),
+      url(../assets/fonts/shlop-regular.ttf) format("ttf");
+  }
